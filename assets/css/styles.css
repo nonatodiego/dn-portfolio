@@ -237,6 +237,12 @@ img{
   row-gap: 2rem;
   text-align: center;
 }
+
+.about__text{
+  padding: 8px;
+  margin: 8px;
+}
+
 .about__subtitle{
   margin-bottom: var(--mb-2);
 }
